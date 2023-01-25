@@ -1,0 +1,15 @@
+#logo{
+    width: auto;
+    height: 150px;
+}
+
+#banner{
+    height: 350px;
+    background-image: url('../Assets/img/shutterstock_116403520.jpg');
+    background-size: cover;
+    background-position: center -150px;
+}
+
+#caja-content{
+    border: 1px solid rgb(46, 235, 242);
+}
